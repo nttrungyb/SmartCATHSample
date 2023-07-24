@@ -1,0 +1,74 @@
+D:\BU-CA\vnpt\tailieu\eSeal\Sample\SmartCATHNetCore\bin\Debug\net5.0\SmartCATHNetCore.exe
+D:\BU-CA\vnpt\tailieu\eSeal\Sample\SmartCATHNetCore\bin\Debug\net5.0\SmartCATHNetCore.deps.json
+D:\BU-CA\vnpt\tailieu\eSeal\Sample\SmartCATHNetCore\bin\Debug\net5.0\SmartCATHNetCore.runtimeconfig.json
+D:\BU-CA\vnpt\tailieu\eSeal\Sample\SmartCATHNetCore\bin\Debug\net5.0\SmartCATHNetCore.runtimeconfig.dev.json
+D:\BU-CA\vnpt\tailieu\eSeal\Sample\SmartCATHNetCore\bin\Debug\net5.0\SmartCATHNetCore.dll
+D:\BU-CA\vnpt\tailieu\eSeal\Sample\SmartCATHNetCore\bin\Debug\net5.0\SmartCATHNetCore.pdb
+D:\BU-CA\vnpt\tailieu\eSeal\Sample\SmartCATHNetCore\bin\Debug\net5.0\Otp.NET.dll
+D:\BU-CA\vnpt\tailieu\eSeal\Sample\SmartCATHNetCore\bin\Debug\net5.0\RestSharp.dll
+D:\BU-CA\vnpt\tailieu\eSeal\Sample\SmartCATHNetCore\bin\Debug\net5.0\itextsharp.dll
+D:\BU-CA\vnpt\tailieu\eSeal\Sample\SmartCATHNetCore\bin\Debug\net5.0\log4net.dll
+D:\BU-CA\vnpt\tailieu\eSeal\Sample\SmartCATHNetCore\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\BU-CA\vnpt\tailieu\eSeal\Sample\SmartCATHNetCore\bin\Debug\net5.0\SignService.Common.HashSignature.dll
+D:\BU-CA\vnpt\tailieu\eSeal\Sample\SmartCATHNetCore\bin\Debug\net5.0\System.Security.Custom.dll
+D:\BU-CA\vnpt\tailieu\eSeal\Sample\SmartCATHNetCore\bin\Debug\net5.0\WindowBaseExt.dll
+D:\BU-CA\vnpt\tailieu\eSeal\Sample\SmartCATHNetCore\obj\Debug\net5.0\SmartCATHNetCore.csproj.AssemblyReference.cache
+D:\BU-CA\vnpt\tailieu\eSeal\Sample\SmartCATHNetCore\obj\Debug\net5.0\SmartCATHNetCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\BU-CA\vnpt\tailieu\eSeal\Sample\SmartCATHNetCore\obj\Debug\net5.0\SmartCATHNetCore.AssemblyInfoInputs.cache
+D:\BU-CA\vnpt\tailieu\eSeal\Sample\SmartCATHNetCore\obj\Debug\net5.0\SmartCATHNetCore.AssemblyInfo.cs
+D:\BU-CA\vnpt\tailieu\eSeal\Sample\SmartCATHNetCore\obj\Debug\net5.0\SmartCATHNetCore.csproj.CoreCompileInputs.cache
+D:\BU-CA\vnpt\tailieu\eSeal\Sample\SmartCATHNetCore\obj\Debug\net5.0\SmartCATHNetCore.csproj.CopyComplete
+D:\BU-CA\vnpt\tailieu\eSeal\Sample\SmartCATHNetCore\obj\Debug\net5.0\SmartCATHNetCore.dll
+D:\BU-CA\vnpt\tailieu\eSeal\Sample\SmartCATHNetCore\obj\Debug\net5.0\refint\SmartCATHNetCore.dll
+D:\BU-CA\vnpt\tailieu\eSeal\Sample\SmartCATHNetCore\obj\Debug\net5.0\SmartCATHNetCore.pdb
+D:\BU-CA\vnpt\tailieu\eSeal\Sample\SmartCATHNetCore\obj\Debug\net5.0\SmartCATHNetCore.genruntimeconfig.cache
+D:\BU-CA\vnpt\tailieu\eSeal\Sample\SmartCATHNetCore\obj\Debug\net5.0\ref\SmartCATHNetCore.dll
+D:\BU-CA\vnpt\tailieu\eSeal\Sample\SmartCATHNetCore\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\BU-CA\vnpt\tailieu\eSeal\Sample\SmartCATHNetCore\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\BU-CA\vnpt\tailieu\eSeal\Sample\SmartCATHNetCore\bin\Debug\net5.0\System.Security.Permissions.dll
+D:\BU-CA\vnpt\tailieu\eSeal\Sample\SmartCATHNetCore\bin\Debug\net5.0\System.Windows.Extensions.dll
+D:\BU-CA\vnpt\tailieu\eSeal\Sample\SmartCATHNetCore\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\BU-CA\vnpt\tailieu\eSeal\Sample\SmartCATHNetCore\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\BU-CA\vnpt\tailieu\eSeal\Sample\SmartCATHNetCore\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\BU-CA\vnpt\tailieu\eSeal\Sample\SmartCATHNetCore\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\BU-CA\vnpt\tailieu\eSeal\Sample\SmartCATHNetCore\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\BU-CA\vnpt\tailieu\eSeal\Sample\SmartCATHNetCore\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+D:\BU-CA\vnpt\tailieu\eSeal\Sample\SmartCATHNetCore\bin\Debug\net5.0\System.Security.Cryptography.Xml.dll
+D:\BU-CA\vnpt\tailieu\eSeal\Sample\SmartCATHNetCore\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+D:\Project\ARMC\Payment Gateway\Tài liệu\SmartCA Tích Hợp\NetCore_example_SmartCA_tichhop\SmartCATHNetCore\bin\Debug\net5.0\SmartCATHNetCore.exe
+D:\Project\ARMC\Payment Gateway\Tài liệu\SmartCA Tích Hợp\NetCore_example_SmartCA_tichhop\SmartCATHNetCore\bin\Debug\net5.0\SmartCATHNetCore.deps.json
+D:\Project\ARMC\Payment Gateway\Tài liệu\SmartCA Tích Hợp\NetCore_example_SmartCA_tichhop\SmartCATHNetCore\bin\Debug\net5.0\SmartCATHNetCore.runtimeconfig.json
+D:\Project\ARMC\Payment Gateway\Tài liệu\SmartCA Tích Hợp\NetCore_example_SmartCA_tichhop\SmartCATHNetCore\bin\Debug\net5.0\SmartCATHNetCore.runtimeconfig.dev.json
+D:\Project\ARMC\Payment Gateway\Tài liệu\SmartCA Tích Hợp\NetCore_example_SmartCA_tichhop\SmartCATHNetCore\bin\Debug\net5.0\SmartCATHNetCore.dll
+D:\Project\ARMC\Payment Gateway\Tài liệu\SmartCA Tích Hợp\NetCore_example_SmartCA_tichhop\SmartCATHNetCore\bin\Debug\net5.0\SmartCATHNetCore.pdb
+D:\Project\ARMC\Payment Gateway\Tài liệu\SmartCA Tích Hợp\NetCore_example_SmartCA_tichhop\SmartCATHNetCore\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\Project\ARMC\Payment Gateway\Tài liệu\SmartCA Tích Hợp\NetCore_example_SmartCA_tichhop\SmartCATHNetCore\bin\Debug\net5.0\Otp.NET.dll
+D:\Project\ARMC\Payment Gateway\Tài liệu\SmartCA Tích Hợp\NetCore_example_SmartCA_tichhop\SmartCATHNetCore\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\Project\ARMC\Payment Gateway\Tài liệu\SmartCA Tích Hợp\NetCore_example_SmartCA_tichhop\SmartCATHNetCore\bin\Debug\net5.0\RestSharp.dll
+D:\Project\ARMC\Payment Gateway\Tài liệu\SmartCA Tích Hợp\NetCore_example_SmartCA_tichhop\SmartCATHNetCore\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\Project\ARMC\Payment Gateway\Tài liệu\SmartCA Tích Hợp\NetCore_example_SmartCA_tichhop\SmartCATHNetCore\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+D:\Project\ARMC\Payment Gateway\Tài liệu\SmartCA Tích Hợp\NetCore_example_SmartCA_tichhop\SmartCATHNetCore\bin\Debug\net5.0\System.Security.Cryptography.Xml.dll
+D:\Project\ARMC\Payment Gateway\Tài liệu\SmartCA Tích Hợp\NetCore_example_SmartCA_tichhop\SmartCATHNetCore\bin\Debug\net5.0\System.Security.Permissions.dll
+D:\Project\ARMC\Payment Gateway\Tài liệu\SmartCA Tích Hợp\NetCore_example_SmartCA_tichhop\SmartCATHNetCore\bin\Debug\net5.0\System.Windows.Extensions.dll
+D:\Project\ARMC\Payment Gateway\Tài liệu\SmartCA Tích Hợp\NetCore_example_SmartCA_tichhop\SmartCATHNetCore\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Project\ARMC\Payment Gateway\Tài liệu\SmartCA Tích Hợp\NetCore_example_SmartCA_tichhop\SmartCATHNetCore\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Project\ARMC\Payment Gateway\Tài liệu\SmartCA Tích Hợp\NetCore_example_SmartCA_tichhop\SmartCATHNetCore\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Project\ARMC\Payment Gateway\Tài liệu\SmartCA Tích Hợp\NetCore_example_SmartCA_tichhop\SmartCATHNetCore\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+D:\Project\ARMC\Payment Gateway\Tài liệu\SmartCA Tích Hợp\NetCore_example_SmartCA_tichhop\SmartCATHNetCore\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Project\ARMC\Payment Gateway\Tài liệu\SmartCA Tích Hợp\NetCore_example_SmartCA_tichhop\SmartCATHNetCore\bin\Debug\net5.0\itextsharp.dll
+D:\Project\ARMC\Payment Gateway\Tài liệu\SmartCA Tích Hợp\NetCore_example_SmartCA_tichhop\SmartCATHNetCore\bin\Debug\net5.0\log4net.dll
+D:\Project\ARMC\Payment Gateway\Tài liệu\SmartCA Tích Hợp\NetCore_example_SmartCA_tichhop\SmartCATHNetCore\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Project\ARMC\Payment Gateway\Tài liệu\SmartCA Tích Hợp\NetCore_example_SmartCA_tichhop\SmartCATHNetCore\bin\Debug\net5.0\SignService.Common.HashSignature.dll
+D:\Project\ARMC\Payment Gateway\Tài liệu\SmartCA Tích Hợp\NetCore_example_SmartCA_tichhop\SmartCATHNetCore\bin\Debug\net5.0\System.Security.Custom.dll
+D:\Project\ARMC\Payment Gateway\Tài liệu\SmartCA Tích Hợp\NetCore_example_SmartCA_tichhop\SmartCATHNetCore\bin\Debug\net5.0\WindowBaseExt.dll
+D:\Project\ARMC\Payment Gateway\Tài liệu\SmartCA Tích Hợp\NetCore_example_SmartCA_tichhop\SmartCATHNetCore\obj\Debug\net5.0\SmartCATHNetCore.csproj.AssemblyReference.cache
+D:\Project\ARMC\Payment Gateway\Tài liệu\SmartCA Tích Hợp\NetCore_example_SmartCA_tichhop\SmartCATHNetCore\obj\Debug\net5.0\SmartCATHNetCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\ARMC\Payment Gateway\Tài liệu\SmartCA Tích Hợp\NetCore_example_SmartCA_tichhop\SmartCATHNetCore\obj\Debug\net5.0\SmartCATHNetCore.AssemblyInfoInputs.cache
+D:\Project\ARMC\Payment Gateway\Tài liệu\SmartCA Tích Hợp\NetCore_example_SmartCA_tichhop\SmartCATHNetCore\obj\Debug\net5.0\SmartCATHNetCore.AssemblyInfo.cs
+D:\Project\ARMC\Payment Gateway\Tài liệu\SmartCA Tích Hợp\NetCore_example_SmartCA_tichhop\SmartCATHNetCore\obj\Debug\net5.0\SmartCATHNetCore.csproj.CoreCompileInputs.cache
+D:\Project\ARMC\Payment Gateway\Tài liệu\SmartCA Tích Hợp\NetCore_example_SmartCA_tichhop\SmartCATHNetCore\obj\Debug\net5.0\SmartCATHNetCore.csproj.CopyComplete
+D:\Project\ARMC\Payment Gateway\Tài liệu\SmartCA Tích Hợp\NetCore_example_SmartCA_tichhop\SmartCATHNetCore\obj\Debug\net5.0\SmartCATHNetCore.dll
+D:\Project\ARMC\Payment Gateway\Tài liệu\SmartCA Tích Hợp\NetCore_example_SmartCA_tichhop\SmartCATHNetCore\obj\Debug\net5.0\refint\SmartCATHNetCore.dll
+D:\Project\ARMC\Payment Gateway\Tài liệu\SmartCA Tích Hợp\NetCore_example_SmartCA_tichhop\SmartCATHNetCore\obj\Debug\net5.0\SmartCATHNetCore.pdb
+D:\Project\ARMC\Payment Gateway\Tài liệu\SmartCA Tích Hợp\NetCore_example_SmartCA_tichhop\SmartCATHNetCore\obj\Debug\net5.0\SmartCATHNetCore.genruntimeconfig.cache
+D:\Project\ARMC\Payment Gateway\Tài liệu\SmartCA Tích Hợp\NetCore_example_SmartCA_tichhop\SmartCATHNetCore\obj\Debug\net5.0\ref\SmartCATHNetCore.dll
